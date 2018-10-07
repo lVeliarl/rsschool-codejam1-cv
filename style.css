@@ -43,13 +43,16 @@ section {
   padding: 20px;
 }
 
+.justify {
+  text-align: justify;
+}
+
 .round {
   border-radius: 50%;
   float: left;
 }
-#summary p {
+.right {
   text-align: right;
-  padding: 0 0 50px;
 }
 
 #education p {
