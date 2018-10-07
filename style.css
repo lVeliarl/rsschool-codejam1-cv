@@ -1,0 +1,24 @@
+.round {
+  border-radius: 50%;
+  margin: auto;
+  display: block;
+  padding: 20px;
+}
+p, h1, h2 {
+  font-family: "K2D", sans-serif;
+  text-align: center;
+  width: 1024px;
+  margin: auto;
+}
+nav {
+  position: fixed;
+  font-family: "K2D", sans-serif;
+  font-size: 30px;
+  margin: 10px 20px;
+  padding: -10px;
+  text-transform: uppercase;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+}
